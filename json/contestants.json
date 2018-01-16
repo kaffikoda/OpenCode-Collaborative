@@ -829,6 +829,16 @@
            "github" : "https://github.com/masterchef2209",
            "twitter" : "",
            "referral" : ""
-	}
+	},
+	   {
+             "name" : "Nikhil Kumar",
+             "imageurl" : "contestant/batman.png",
+             "about" : "Curious learner",
+             "college":"Indian Institute of Information Technology, Allahabad",
+             "facebook" : ":",
+             "github" : "https://github.com/kaffikoda",
+             "twitter" : ":",
+             "referral":"namantw"
+        },
    ]
 }
